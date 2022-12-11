@@ -1,0 +1,9 @@
+NAMA : MUHAMMAD RIZKY ABDILLAH
+NIM : 312010386 
+KELAS : TI.20.A2
+
+TUGAS KRIPTOGRAFI STEGANOGRAFI 
+
+Link video tiktok : https://www.tiktok.com/@mrzkyyz/video/7175979697799449858?is_from_webapp=1&sender_device=pc&web_id=7163852883523716609
+
+link progam steganorafi berbasis PHP : https://github.com/rizkyyz/STEGANOGRAFI
