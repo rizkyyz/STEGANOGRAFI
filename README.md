@@ -1,4 +1,4 @@
-# STEGANOGRAFI:octocat:
+# STEGANOGRAFI berbasis PHP:octocat:
 
 <table border="2" cellpading="10">
   <tr>
