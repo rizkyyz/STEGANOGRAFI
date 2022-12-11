@@ -1,8 +1,24 @@
-# steganografi-kriptografi
-This program can encrypt secret messages using a combination of RC4 and base 64 cryptographic algorithms then insert them into image files using the Least Significant Bit (LSB) method. by combining both cryptographic and steganographic methods, providing multiple security. Encryption will convert a secret message (plaintext) into an unreadable random message (ciphertext) then inserted into the pixel image with the steganography method (Least significant Bit).
+# STEGANOGRAFI:octocat:
 
-Demo  : https://kodein.id/demo/kripto-stegano/
-
-Paper : https://drive.google.com/file/d/0B0llvUzuVL5rcUpmd0dnREhUX1U/view?usp=sharing
-
-Email : hi@kodein.id
+<table border="2" cellpading="10">
+  <tr>
+    <td><b>Nama</b></td>
+    <td>Muhammad Rizky Abdillah</td>
+  </tr>
+  <tr>
+    <td><b>NIM</b></td>
+    <td>312010386</td>
+  </tr>
+  <tr>
+    <td><b>Kelas</b></td>
+    <td>TI.20.A2</td>
+  </tr>
+  <tr>
+    <td><b>MataKuliah</b></td>
+    <td>Kriptografi</td>
+  </tr>
+  <tr>
+    <td><b>Dosen Pengampu</b></td>
+    <td>Ahmad Turmudizy,S.Kom.,M.Kom
+</td>
+</table>
